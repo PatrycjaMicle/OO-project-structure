@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1671622780 source:/home/nicu/GIT-Patrycja/studia/youtube/quiz_obiektowo/main.cpp
+	<iostream>
+	"pytanie.h"
+
+1671622789 source:/home/nicu/GIT-Patrycja/studia/youtube/quiz_obiektowo/pytanie.cpp
+	<iostream>
+	"pytanie.h"
+	<fstream>
+	<cstdlib>
+
+1671621873 /home/nicu/GIT-Patrycja/studia/youtube/quiz_obiektowo/pytanie.h
+	<iostream>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1671801694 source:/home/nicu/GIT-Patrycja/studia/youtube/quiz-object-oriented/main.cpp
+	<iostream>
+	"question.h"
+
+1671621873 /home/nicu/GIT-Patrycja/studia/youtube/quiz-object-oriented/question.h
+	<iostream>
+
+1671623488 source:/home/nicu/GIT-Patrycja/studia/youtube/quiz-object-oriented/question.cpp
+	<iostream>
+	"question.h"
+	<fstream>
+	<cstdlib>
+

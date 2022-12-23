@@ -1,0 +1,60 @@
+How do you insert COMMENTS in C++ code?
+a. &
+b. **
+c. //
+d. $
+c
+Which data type is used to create a variable that should store text?
+a. int
+b. String
+c. Mystring
+d. string
+d
+How do you create a variable with the floating number 2.8?
+a. double x=2.8
+b. x=2.8
+c. int x=2.8
+d. byte x=2.8
+a
+Which operator is used to add together two values?
+a. *
+b. &
+c. +
+d. &&
+c
+Which header file lets us work with input and output objects?
+a. #include <isstream>
+b. #include <input>
+c. #include <inout>
+d. #include <iostream>
+d
+Which operator can be used to compare two values?
+a. =
+b. <>
+c. #
+d. ==
+d
+Array indexes start with:
+a. 0
+b. 1
+c. null
+d. -1
+a
+Which keyword is used to create a class in C++?
+a. class()
+b. Myclass
+c. class
+d. className
+c
+Which keyword is used to return a value inside a method?
+a. return
+b. get
+c. void
+d. call
+a
+Which statement is used to stop a loop?
+a. stop
+b. break
+c. exit
+d. end
+b
