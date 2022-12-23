@@ -15,7 +15,7 @@ You can add so many questions as you want and just update the questions number i
 Here the function with 10 questions, if you add some questions just overwrite 10.
 
 <p align="center">
-    <img src="https://github.com/PatrycjaMicle/object-oriented-quiz/blob/main/screenshot-quiz2.jpg?raw=true" alt="screenshot" />
+    <img src="https://github.com/PatrycjaMicle/object-oriented-quiz/blob/main/Screenshot-quiz2.jpg?raw=true" alt="screenshot" />
 </p>
 
 It's very simple example of a construction of object oriented project. 
