@@ -18,7 +18,7 @@ This project was build from separate blocks - instead of writing code in a one f
 
 ## Overview
 <p align="center">
-    <img src="https://github.com/PatrycjaMicle/object-oriented-quiz/blob/main/IMAGES/screenshot-quiz.png?raw=true" alt="screenshot" />
+    <img src="https://github.com/PatrycjaMicle/object-oriented-quiz/blob/main/IMAGES/screenshot-quiz.jpg?raw=true" alt="screenshot" />
 </p>
 
 ## Used technologies
