@@ -6,13 +6,13 @@ using namespace std;
 int main()
 {
 
-    Question q[10];
+    Question q[10]; // the number of questions
     int suma=0;
-    for(int i=0;i<10;i++)
+    for(int i=0;i<10;i++) // i<number of questions
     {
         q[i].nr_question=i+1;
         q[i].read();
-        q[i].ask();
+        q[i].ask();Which statement is used to stop a loop?
         q[i].checkAnswer();
         suma+=q[i].point;
     }

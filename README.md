@@ -12,13 +12,18 @@ and the exact code of this class in a question.cpp file.
 The main function read all questions from the quiz.txt textfile.
 
 You can add so many questions as you want and just update the questions number in a loop in main function.
+Here the function with 10 questions, if you add some questions just overwrite 10.
+
+<p align="center">
+    <img src="https://github.com/PatrycjaMicle/object-oriented-quiz/blob/main/IMAGES/screenshot-quiz2.jpg?raw=true" alt="screenshot" />
+</p>
 
 It's very simple example of a construction of object oriented project. 
 This project was build from separate blocks - instead of writing code in a one file.
 
 ## Overview
 <p align="center">
-    <img src="https://github.com/PatrycjaMicle/object-oriented-quiz/blob/main/IMAGES/screenshot-quiz.png?raw=true" alt="screenshot" />
+    <img src="https://github.com/PatrycjaMicle/object-oriented-quiz/blob/main/IMAGES/screenshot-quiz.jpg?raw=true" alt="screenshot" />
 </p>
 
 ## Used technologies
