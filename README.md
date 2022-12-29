@@ -1,4 +1,4 @@
-# Hangman game
+# Quiz
 
 Quiz with sample questions about C++.
 
