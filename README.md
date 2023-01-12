@@ -19,7 +19,7 @@ Here the function with 10 questions, if you add some questions just overwrite 10
 </p>
 
 If you want to change structre of a question and aswer please rewrite function reading a question. 
-    <img src="https://github.com/PatrycjaMicle/object-oriented-quiz/blob/main/IMAGES/screenshot3.jpg?raw=true" alt="screenshot" />
+    <img src="https://github.com/PatrycjaMicle/object-oriented-quiz/blob/main/IMAGES/Screenshot3.jpg?raw=true" alt="screenshot" />
 </p>
 Changing the structure of the textfile without changing the reading function will lead to errors. 
 
