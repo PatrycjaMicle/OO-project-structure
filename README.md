@@ -21,6 +21,7 @@ Here the function with 10 questions, if you add some questions just overwrite 10
 
 If you want to change structure of a question and answers please rewrite function reading a question. Find the function in question.cpp file.
 
+<p align="center">
     <img src="https://github.com/PatrycjaMicle/object-oriented-quiz/blob/main/IMAGES/Screenshot3.jpg?raw=true" alt="screenshot" />
 </p>
 
