@@ -18,6 +18,12 @@ Here the function with 10 questions, if you add some questions just overwrite 10
     <img src="https://github.com/PatrycjaMicle/object-oriented-quiz/blob/main/IMAGES/screenshot-quiz2.jpg?raw=true" alt="screenshot" />
 </p>
 
+
+If you want to change structre of a question and aswer please rewrite function reading a question. 
+    <img src="https://github.com/PatrycjaMicle/object-oriented-quiz/blob/main/IMAGES/screenshot3.jpg?raw=true" alt="screenshot" />
+</p>
+Changing the structure of the textfile without changing the reading function will lead to errors. 
+
 It's very simple example of a construction of object oriented project. 
 This project was build from separate blocks - instead of writing code in a one file.
 
