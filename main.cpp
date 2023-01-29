@@ -12,7 +12,7 @@ int main()
     {
         q[i].nr_question=i+1;
         q[i].read();
-        q[i].ask();Which statement is used to stop a loop?
+        q[i].ask();
         q[i].checkAnswer();
         suma+=q[i].point;
     }
